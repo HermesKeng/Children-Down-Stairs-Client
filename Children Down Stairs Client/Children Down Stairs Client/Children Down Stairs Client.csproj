@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6EC5525C-2D44-4BE5-8CE8-78F2AC348BD0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Children_Down_Stairs_Client</RootNamespace>
+    <AssemblyName>Children Down Stairs Client</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CharactorChooseOnlineForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CharactorChooseOnlineForm.Designer.cs">
+      <DependentUpon>CharactorChooseOnlineForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CharactorChooseSingleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CharactorChooseSingleForm.Designer.cs">
+      <DependentUpon>CharactorChooseSingleForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClientNetwork.cs" />
+    <Compile Include="GameOnlineForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GameOnlineForm.Designer.cs">
+      <DependentUpon>GameOnlineForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GameSingleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GameSingleForm.Designer.cs">
+      <DependentUpon>GameSingleForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="gro.cs" />
+    <Compile Include="Map.cs" />
+    <Compile Include="player.cs" />
+    <Compile Include="sound.cs" />
+    <Compile Include="StartForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StartForm.Designer.cs">
+      <DependentUpon>StartForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="CharactorChooseOnlineForm.resx">
+      <DependentUpon>CharactorChooseOnlineForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CharactorChooseSingleForm.resx">
+      <DependentUpon>CharactorChooseSingleForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GameOnlineForm.resx">
+      <DependentUpon>GameOnlineForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GameSingleForm.resx">
+      <DependentUpon>GameSingleForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StartForm.resx">
+      <DependentUpon>StartForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bar.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bar0.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bar1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bar2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bar3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bar4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\character1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\character1R1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\character1R2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\character2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\character2R1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\character2R2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\character3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\character4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\character4R1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\character4R2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\character5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\character6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chracter1R1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chracter1R2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\down_stairs.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edge.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\leaderboard.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\roof.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="去背的圖\new_game_background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="去背的圖\[原始檔案]\One Up.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

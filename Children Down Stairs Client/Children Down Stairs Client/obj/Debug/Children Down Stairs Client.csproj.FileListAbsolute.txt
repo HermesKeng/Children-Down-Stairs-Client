@@ -1,0 +1,166 @@
+D:\大學\Git\電網實習 not Git\Children Down Stairs Client\Children Down Stairs Client\bin\Debug\Children Down Stairs Client.exe.config
+D:\大學\Git\電網實習 not Git\Children Down Stairs Client\Children Down Stairs Client\bin\Debug\Children Down Stairs Client.exe
+D:\大學\Git\電網實習 not Git\Children Down Stairs Client\Children Down Stairs Client\bin\Debug\Children Down Stairs Client.pdb
+D:\大學\Git\電網實習 not Git\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children Down Stairs Client.csprojResolveAssemblyReference.cache
+D:\大學\Git\電網實習 not Git\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.StartForm.resources
+D:\大學\Git\電網實習 not Git\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.Properties.Resources.resources
+D:\大學\Git\電網實習 not Git\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children Down Stairs Client.csproj.GenerateResource.Cache
+D:\大學\Git\電網實習 not Git\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children Down Stairs Client.exe
+D:\大學\Git\電網實習 not Git\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children Down Stairs Client.pdb
+D:\大學\Git\電網實習\俊瑋\Children Down Stairs Client\Children Down Stairs Client\bin\Debug\Children Down Stairs Client.exe.config
+D:\大學\Git\電網實習\俊瑋\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children Down Stairs Client.exe
+D:\大學\Git\電網實習\俊瑋\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children Down Stairs Client.pdb
+D:\大學\Git\電網實習\俊瑋\Children Down Stairs Client\Children Down Stairs Client\bin\Debug\Children Down Stairs Client.exe
+D:\大學\Git\電網實習\俊瑋\Children Down Stairs Client\Children Down Stairs Client\bin\Debug\Children Down Stairs Client.pdb
+D:\大學\Git\電網實習\俊瑋\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children Down Stairs Client.csprojResolveAssemblyReference.cache
+D:\大學\Git\電網實習\俊瑋\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.StartForm.resources
+D:\大學\Git\電網實習\俊瑋\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.Properties.Resources.resources
+D:\大學\Git\電網實習\俊瑋\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children Down Stairs Client.csproj.GenerateResource.Cache
+D:\大學\Git\電網實習\俊瑋\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.CharactorChooseOnlineForm.resources
+D:\大學\Git\電網實習\俊瑋\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.CharactorChooseSingleForm.resources
+D:\大學\Git\電網實習 not Git\俊瑋\Children Down Stairs Client\Children Down Stairs Client\bin\Debug\Children Down Stairs Client.exe.config
+D:\大學\Git\電網實習 not Git\俊瑋\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children Down Stairs Client.exe
+D:\大學\Git\電網實習 not Git\俊瑋\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children Down Stairs Client.pdb
+D:\大學\Git\電網實習 not Git\俊瑋\Children Down Stairs Client\Children Down Stairs Client\bin\Debug\Children Down Stairs Client.exe
+D:\大學\Git\電網實習 not Git\俊瑋\Children Down Stairs Client\Children Down Stairs Client\bin\Debug\Children Down Stairs Client.pdb
+D:\大學\Git\電網實習 not Git\俊瑋\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children Down Stairs Client.csprojResolveAssemblyReference.cache
+D:\大學\Git\電網實習 not Git\俊瑋\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.CharactorChooseOnlineForm.resources
+D:\大學\Git\電網實習 not Git\俊瑋\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.CharactorChooseSingleForm.resources
+D:\大學\Git\電網實習 not Git\俊瑋\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.StartForm.resources
+D:\大學\Git\電網實習 not Git\俊瑋\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.Properties.Resources.resources
+D:\大學\Git\電網實習 not Git\俊瑋\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children Down Stairs Client.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\新增資料夾 (2)\6.1\俊瑋\Children Down Stairs Client\Children Down Stairs Client\bin\Debug\Children Down Stairs Client.exe.config
+C:\Users\user\Desktop\新增資料夾 (2)\6.1\俊瑋\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children Down Stairs Client.exe
+C:\Users\user\Desktop\新增資料夾 (2)\6.1\俊瑋\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children Down Stairs Client.pdb
+C:\Users\user\Desktop\新增資料夾 (2)\6.1\俊瑋\Children Down Stairs Client\Children Down Stairs Client\bin\Debug\Children Down Stairs Client.exe
+C:\Users\user\Desktop\新增資料夾 (2)\6.1\俊瑋\Children Down Stairs Client\Children Down Stairs Client\bin\Debug\Children Down Stairs Client.pdb
+C:\Users\user\Desktop\新增資料夾 (2)\6.1\俊瑋\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children Down Stairs Client.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\新增資料夾 (2)\6.1\俊瑋\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.CharactorChooseOnlineForm.resources
+C:\Users\user\Desktop\新增資料夾 (2)\6.1\俊瑋\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.CharactorChooseSingleForm.resources
+C:\Users\user\Desktop\新增資料夾 (2)\6.1\俊瑋\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.GameOnlineForm.resources
+C:\Users\user\Desktop\新增資料夾 (2)\6.1\俊瑋\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.StartForm.resources
+C:\Users\user\Desktop\新增資料夾 (2)\6.1\俊瑋\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.Properties.Resources.resources
+C:\Users\user\Desktop\新增資料夾 (2)\6.1\俊瑋\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children Down Stairs Client.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\新增資料夾 (2)\6.2\即時好難\Children Down Stairs Client\Children Down Stairs Client\bin\Debug\Children Down Stairs Client.exe.config
+C:\Users\user\Desktop\新增資料夾 (2)\6.2\即時好難\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children Down Stairs Client.exe
+C:\Users\user\Desktop\新增資料夾 (2)\6.2\即時好難\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children Down Stairs Client.pdb
+C:\Users\user\Desktop\新增資料夾 (2)\6.2\即時好難\Children Down Stairs Client\Children Down Stairs Client\bin\Debug\Children Down Stairs Client.exe
+C:\Users\user\Desktop\新增資料夾 (2)\6.2\即時好難\Children Down Stairs Client\Children Down Stairs Client\bin\Debug\Children Down Stairs Client.pdb
+C:\Users\user\Desktop\新增資料夾 (2)\6.2\即時好難\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children Down Stairs Client.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\新增資料夾 (2)\6.2\即時好難\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.CharactorChooseOnlineForm.resources
+C:\Users\user\Desktop\新增資料夾 (2)\6.2\即時好難\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.CharactorChooseSingleForm.resources
+C:\Users\user\Desktop\新增資料夾 (2)\6.2\即時好難\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.GameOnlineForm.resources
+C:\Users\user\Desktop\新增資料夾 (2)\6.2\即時好難\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.StartForm.resources
+C:\Users\user\Desktop\新增資料夾 (2)\6.2\即時好難\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.Properties.Resources.resources
+C:\Users\user\Desktop\新增資料夾 (2)\6.2\即時好難\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children Down Stairs Client.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\新增資料夾 (2)\6.2\嘗試大改\Children Down Stairs Client\Children Down Stairs Client\bin\Debug\Children Down Stairs Client.exe.config
+C:\Users\user\Desktop\新增資料夾 (2)\6.2\嘗試大改\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children Down Stairs Client.exe
+C:\Users\user\Desktop\新增資料夾 (2)\6.2\嘗試大改\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children Down Stairs Client.pdb
+C:\Users\user\Desktop\新增資料夾 (2)\6.2\來改成我的想法看看\Children Down Stairs Client\Children Down Stairs Client\bin\Debug\Children Down Stairs Client.exe.config
+C:\Users\user\Desktop\新增資料夾 (2)\6.2\來改成我的想法看看\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children Down Stairs Client.exe
+C:\Users\user\Desktop\新增資料夾 (2)\6.2\來改成我的想法看看\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children Down Stairs Client.pdb
+C:\Users\user\Desktop\新增資料夾 (2)\6.2\來改成我的想法看看\Children Down Stairs Client\Children Down Stairs Client\bin\Debug\Children Down Stairs Client.exe
+C:\Users\user\Desktop\新增資料夾 (2)\6.2\來改成我的想法看看\Children Down Stairs Client\Children Down Stairs Client\bin\Debug\Children Down Stairs Client.pdb
+C:\Users\user\Desktop\新增資料夾 (2)\6.2\來改成我的想法看看\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children Down Stairs Client.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\新增資料夾 (2)\6.2\來改成我的想法看看\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.CharactorChooseOnlineForm.resources
+C:\Users\user\Desktop\新增資料夾 (2)\6.2\來改成我的想法看看\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.CharactorChooseSingleForm.resources
+C:\Users\user\Desktop\新增資料夾 (2)\6.2\來改成我的想法看看\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.GameOnlineForm.resources
+C:\Users\user\Desktop\新增資料夾 (2)\6.2\來改成我的想法看看\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.StartForm.resources
+C:\Users\user\Desktop\新增資料夾 (2)\6.2\來改成我的想法看看\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.Properties.Resources.resources
+C:\Users\user\Desktop\新增資料夾 (2)\6.2\來改成我的想法看看\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children Down Stairs Client.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\新增資料夾 (2)\6.3\Map測試\Children Down Stairs Client\Children Down Stairs Client\bin\Debug\Children Down Stairs Client.exe.config
+C:\Users\user\Desktop\新增資料夾 (2)\6.3\Map測試\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children Down Stairs Client.exe
+C:\Users\user\Desktop\新增資料夾 (2)\6.3\Map測試\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children Down Stairs Client.pdb
+C:\Users\user\Desktop\新增資料夾 (2)\6.3\Map測試\Children Down Stairs Client\Children Down Stairs Client\bin\Debug\Children Down Stairs Client.exe
+C:\Users\user\Desktop\新增資料夾 (2)\6.3\Map測試\Children Down Stairs Client\Children Down Stairs Client\bin\Debug\Children Down Stairs Client.pdb
+C:\Users\user\Desktop\新增資料夾 (2)\6.3\Map測試\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children Down Stairs Client.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\新增資料夾 (2)\6.3\Map測試\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.CharactorChooseOnlineForm.resources
+C:\Users\user\Desktop\新增資料夾 (2)\6.3\Map測試\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.CharactorChooseSingleForm.resources
+C:\Users\user\Desktop\新增資料夾 (2)\6.3\Map測試\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.GameOnlineForm.resources
+C:\Users\user\Desktop\新增資料夾 (2)\6.3\Map測試\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.StartForm.resources
+C:\Users\user\Desktop\新增資料夾 (2)\6.3\Map測試\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.Properties.Resources.resources
+C:\Users\user\Desktop\新增資料夾 (2)\6.3\Map測試\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children Down Stairs Client.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\新增資料夾 (2)\6.4\Map大改\Children Down Stairs Client\Children Down Stairs Client\bin\Debug\Children Down Stairs Client.exe.config
+C:\Users\user\Desktop\新增資料夾 (2)\6.4\Map大改\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children Down Stairs Client.exe
+C:\Users\user\Desktop\新增資料夾 (2)\6.4\Map大改\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children Down Stairs Client.pdb
+C:\Users\user\Desktop\新增資料夾 (2)\6.4\Map大改\Children Down Stairs Client\Children Down Stairs Client\bin\Debug\Children Down Stairs Client.exe
+C:\Users\user\Desktop\新增資料夾 (2)\6.4\Map大改\Children Down Stairs Client\Children Down Stairs Client\bin\Debug\Children Down Stairs Client.pdb
+C:\Users\user\Desktop\新增資料夾 (2)\6.4\Map大改\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children Down Stairs Client.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\新增資料夾 (2)\6.4\Map大改\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.CharactorChooseOnlineForm.resources
+C:\Users\user\Desktop\新增資料夾 (2)\6.4\Map大改\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.CharactorChooseSingleForm.resources
+C:\Users\user\Desktop\新增資料夾 (2)\6.4\Map大改\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.GameOnlineForm.resources
+C:\Users\user\Desktop\新增資料夾 (2)\6.4\Map大改\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.StartForm.resources
+C:\Users\user\Desktop\新增資料夾 (2)\6.4\Map大改\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.Properties.Resources.resources
+C:\Users\user\Desktop\新增資料夾 (2)\6.4\Map大改\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children Down Stairs Client.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\新增資料夾 (2)\6.4\真正map合體\Children Down Stairs Client\Children Down Stairs Client\bin\Debug\Children Down Stairs Client.exe.config
+C:\Users\user\Desktop\新增資料夾 (2)\6.4\真正map合體\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children Down Stairs Client.exe
+C:\Users\user\Desktop\新增資料夾 (2)\6.4\真正map合體\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children Down Stairs Client.pdb
+C:\Users\user\Desktop\新增資料夾 (2)\6.4\真正map合體\Children Down Stairs Client\Children Down Stairs Client\bin\Debug\Children Down Stairs Client.exe
+C:\Users\user\Desktop\新增資料夾 (2)\6.4\真正map合體\Children Down Stairs Client\Children Down Stairs Client\bin\Debug\Children Down Stairs Client.pdb
+C:\Users\user\Desktop\新增資料夾 (2)\6.4\真正map合體\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children Down Stairs Client.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\新增資料夾 (2)\6.4\真正map合體\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.CharactorChooseOnlineForm.resources
+C:\Users\user\Desktop\新增資料夾 (2)\6.4\真正map合體\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.CharactorChooseSingleForm.resources
+C:\Users\user\Desktop\新增資料夾 (2)\6.4\真正map合體\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.GameOnlineForm.resources
+C:\Users\user\Desktop\新增資料夾 (2)\6.4\真正map合體\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.StartForm.resources
+C:\Users\user\Desktop\新增資料夾 (2)\6.4\真正map合體\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.Properties.Resources.resources
+C:\Users\user\Desktop\新增資料夾 (2)\6.4\真正map合體\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children Down Stairs Client.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\新增資料夾 (2)\6.5\封包一定要來完成\Children Down Stairs Client\Children Down Stairs Client\bin\Debug\Children Down Stairs Client.exe.config
+C:\Users\user\Desktop\新增資料夾 (2)\6.5\封包一定要來完成\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children Down Stairs Client.exe
+C:\Users\user\Desktop\新增資料夾 (2)\6.5\封包一定要來完成\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children Down Stairs Client.pdb
+C:\Users\user\Desktop\新增資料夾 (2)\6.5\封包一定要來完成\Children Down Stairs Client\Children Down Stairs Client\bin\Debug\Children Down Stairs Client.exe
+C:\Users\user\Desktop\新增資料夾 (2)\6.5\封包一定要來完成\Children Down Stairs Client\Children Down Stairs Client\bin\Debug\Children Down Stairs Client.pdb
+C:\Users\user\Desktop\新增資料夾 (2)\6.5\封包一定要來完成\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children Down Stairs Client.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\新增資料夾 (2)\6.5\封包一定要來完成\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.CharactorChooseOnlineForm.resources
+C:\Users\user\Desktop\新增資料夾 (2)\6.5\封包一定要來完成\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.CharactorChooseSingleForm.resources
+C:\Users\user\Desktop\新增資料夾 (2)\6.5\封包一定要來完成\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.GameOnlineForm.resources
+C:\Users\user\Desktop\新增資料夾 (2)\6.5\封包一定要來完成\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.StartForm.resources
+C:\Users\user\Desktop\新增資料夾 (2)\6.5\封包一定要來完成\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.Properties.Resources.resources
+C:\Users\user\Desktop\新增資料夾 (2)\6.5\封包一定要來完成\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children Down Stairs Client.csproj.GenerateResource.Cache
+D:\tutorial\共同專案\Children Down Stairs Client\Children Down Stairs Client\bin\Debug\Children Down Stairs Client.exe.config
+D:\tutorial\共同專案\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children Down Stairs Client.exe
+D:\tutorial\共同專案\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children Down Stairs Client.pdb
+D:\tutorial\共同專案\Children Down Stairs Client\Children Down Stairs Client\bin\Debug\Children Down Stairs Client.exe
+D:\tutorial\共同專案\Children Down Stairs Client\Children Down Stairs Client\bin\Debug\Children Down Stairs Client.pdb
+D:\tutorial\共同專案\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children Down Stairs Client.csprojResolveAssemblyReference.cache
+D:\tutorial\共同專案\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.CharactorChooseOnlineForm.resources
+D:\tutorial\共同專案\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.CharactorChooseSingleForm.resources
+D:\tutorial\共同專案\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.GameOnlineForm.resources
+D:\tutorial\共同專案\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.StartForm.resources
+D:\tutorial\共同專案\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.Properties.Resources.resources
+D:\tutorial\共同專案\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children Down Stairs Client.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\新增資料夾 (2)\6.5\map就剩跳了  先來完成其他的!!!\Children Down Stairs Client\Children Down Stairs Client\bin\Debug\Children Down Stairs Client.exe.config
+C:\Users\user\Desktop\新增資料夾 (2)\6.5\map就剩跳了  先來完成其他的!!!\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children Down Stairs Client.exe
+C:\Users\user\Desktop\新增資料夾 (2)\6.5\map就剩跳了  先來完成其他的!!!\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children Down Stairs Client.pdb
+C:\Users\user\Desktop\新增資料夾 (2)\6.5\map就剩跳了  先來完成其他的!!!\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children Down Stairs Client.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\新增資料夾 (2)\6.5\map就剩跳了  先來完成其他的!!!\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.CharactorChooseOnlineForm.resources
+C:\Users\user\Desktop\新增資料夾 (2)\6.5\map就剩跳了  先來完成其他的!!!\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.CharactorChooseSingleForm.resources
+C:\Users\user\Desktop\新增資料夾 (2)\6.5\map就剩跳了  先來完成其他的!!!\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.GameOnlineForm.resources
+C:\Users\user\Desktop\新增資料夾 (2)\6.5\map就剩跳了  先來完成其他的!!!\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.StartForm.resources
+C:\Users\user\Desktop\新增資料夾 (2)\6.5\map就剩跳了  先來完成其他的!!!\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.Properties.Resources.resources
+C:\Users\user\Desktop\新增資料夾 (2)\6.5\map就剩跳了  先來完成其他的!!!\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children Down Stairs Client.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\新增資料夾 (2)\6.5\map就剩跳了  先來完成其他的!!!\Children Down Stairs Client\Children Down Stairs Client\bin\Debug\Children Down Stairs Client.exe
+C:\Users\user\Desktop\新增資料夾 (2)\6.5\map就剩跳了  先來完成其他的!!!\Children Down Stairs Client\Children Down Stairs Client\bin\Debug\Children Down Stairs Client.pdb
+C:\Users\user\Desktop\新增資料夾 (2)\6.5\map就剩跳了  先來完成其他的!!!\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.GameSingleForm.resources
+C:\Users\user\Desktop\新增資料夾 (2)\6.5\map就剩跳了  先來完成其他的!!!\Children Down Stairs Client\Children Down Stairs Client\bin\Debug\Interop.WMPLib.dll
+C:\Users\user\Desktop\新增資料夾 (2)\6.5\map就剩跳了  先來完成其他的!!!\Children Down Stairs Client\Children Down Stairs Client\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Desktop\新增資料夾 (2)\6.5\map就剩跳了  先來完成其他的!!!\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Interop.WMPLib.dll
+C:\Users\user\Desktop\新增資料夾 (2)\6.5\map就剩跳了  先來完成其他的!!!\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Desktop\新增資料夾 (2)\6.5\map就剩跳了  先來完成其他的!!!\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children Down Stairs Client.csproj.ResolveComReference.cache
+C:\Users\ntpu\Desktop\Children Down Stairs Client\Children Down Stairs Client\bin\Debug\Children Down Stairs Client.exe.config
+C:\Users\ntpu\Desktop\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Interop.WMPLib.dll
+C:\Users\ntpu\Desktop\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ntpu\Desktop\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children Down Stairs Client.csproj.ResolveComReference.cache
+C:\Users\ntpu\Desktop\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children Down Stairs Client.exe
+C:\Users\ntpu\Desktop\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children Down Stairs Client.pdb
+C:\Users\ntpu\Desktop\Children Down Stairs Client\Children Down Stairs Client\bin\Debug\Children Down Stairs Client.exe
+C:\Users\ntpu\Desktop\Children Down Stairs Client\Children Down Stairs Client\bin\Debug\Children Down Stairs Client.pdb
+C:\Users\ntpu\Desktop\Children Down Stairs Client\Children Down Stairs Client\bin\Debug\Interop.WMPLib.dll
+C:\Users\ntpu\Desktop\Children Down Stairs Client\Children Down Stairs Client\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ntpu\Desktop\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children Down Stairs Client.csprojResolveAssemblyReference.cache
+C:\Users\ntpu\Desktop\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.CharactorChooseOnlineForm.resources
+C:\Users\ntpu\Desktop\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.CharactorChooseSingleForm.resources
+C:\Users\ntpu\Desktop\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.GameOnlineForm.resources
+C:\Users\ntpu\Desktop\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.GameSingleForm.resources
+C:\Users\ntpu\Desktop\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.StartForm.resources
+C:\Users\ntpu\Desktop\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children_Down_Stairs_Client.Properties.Resources.resources
+C:\Users\ntpu\Desktop\Children Down Stairs Client\Children Down Stairs Client\obj\Debug\Children Down Stairs Client.csproj.GenerateResource.Cache

@@ -1,0 +1,69 @@
+D:\大學\Git\電網實習 not Git\Children Down Stairs Server\Children Down Stairs Server\bin\Debug\Children Down Stairs Server.exe.config
+D:\大學\Git\電網實習 not Git\Children Down Stairs Server\Children Down Stairs Server\bin\Debug\Children Down Stairs Server.exe
+D:\大學\Git\電網實習 not Git\Children Down Stairs Server\Children Down Stairs Server\bin\Debug\Children Down Stairs Server.pdb
+D:\大學\Git\電網實習 not Git\Children Down Stairs Server\Children Down Stairs Server\obj\Debug\Children Down Stairs Server.csprojResolveAssemblyReference.cache
+D:\大學\Git\電網實習 not Git\Children Down Stairs Server\Children Down Stairs Server\obj\Debug\Children Down Stairs Server.exe
+D:\大學\Git\電網實習 not Git\Children Down Stairs Server\Children Down Stairs Server\obj\Debug\Children Down Stairs Server.pdb
+D:\大學\Git\電網實習\俊瑋\Children Down Stairs Server\Children Down Stairs Server\bin\Debug\Children Down Stairs Server.exe.config
+D:\大學\Git\電網實習\俊瑋\Children Down Stairs Server\Children Down Stairs Server\obj\Debug\Children Down Stairs Server.exe
+D:\大學\Git\電網實習\俊瑋\Children Down Stairs Server\Children Down Stairs Server\obj\Debug\Children Down Stairs Server.pdb
+D:\大學\Git\電網實習\俊瑋\Children Down Stairs Server\Children Down Stairs Server\bin\Debug\Children Down Stairs Server.exe
+D:\大學\Git\電網實習\俊瑋\Children Down Stairs Server\Children Down Stairs Server\bin\Debug\Children Down Stairs Server.pdb
+D:\大學\Git\電網實習\俊瑋\Children Down Stairs Server\Children Down Stairs Server\obj\Debug\Children Down Stairs Server.csprojResolveAssemblyReference.cache
+D:\大學\Git\電網實習 not Git\俊瑋\Children Down Stairs Server\Children Down Stairs Server\bin\Debug\Children Down Stairs Server.exe.config
+D:\大學\Git\電網實習 not Git\俊瑋\Children Down Stairs Server\Children Down Stairs Server\obj\Debug\Children Down Stairs Server.exe
+D:\大學\Git\電網實習 not Git\俊瑋\Children Down Stairs Server\Children Down Stairs Server\obj\Debug\Children Down Stairs Server.pdb
+D:\大學\Git\電網實習 not Git\俊瑋\Children Down Stairs Server\Children Down Stairs Server\bin\Debug\Children Down Stairs Server.exe
+D:\大學\Git\電網實習 not Git\俊瑋\Children Down Stairs Server\Children Down Stairs Server\bin\Debug\Children Down Stairs Server.pdb
+D:\大學\Git\電網實習 not Git\俊瑋\Children Down Stairs Server\Children Down Stairs Server\obj\Debug\Children Down Stairs Server.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\新增資料夾 (2)\6.1\俊瑋\Children Down Stairs Server\Children Down Stairs Server\bin\Debug\Children Down Stairs Server.exe.config
+C:\Users\user\Desktop\新增資料夾 (2)\6.1\俊瑋\Children Down Stairs Server\Children Down Stairs Server\obj\Debug\Children Down Stairs Server.exe
+C:\Users\user\Desktop\新增資料夾 (2)\6.1\俊瑋\Children Down Stairs Server\Children Down Stairs Server\obj\Debug\Children Down Stairs Server.pdb
+C:\Users\user\Desktop\新增資料夾 (2)\6.1\俊瑋\Children Down Stairs Server\Children Down Stairs Server\bin\Debug\Children Down Stairs Server.exe
+C:\Users\user\Desktop\新增資料夾 (2)\6.1\俊瑋\Children Down Stairs Server\Children Down Stairs Server\bin\Debug\Children Down Stairs Server.pdb
+C:\Users\user\Desktop\新增資料夾 (2)\6.1\俊瑋\Children Down Stairs Server\Children Down Stairs Server\obj\Debug\Children Down Stairs Server.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\新增資料夾 (2)\6.2\即時好難\Children Down Stairs Server\Children Down Stairs Server\bin\Debug\Children Down Stairs Server.exe.config
+C:\Users\user\Desktop\新增資料夾 (2)\6.2\即時好難\Children Down Stairs Server\Children Down Stairs Server\obj\Debug\Children Down Stairs Server.exe
+C:\Users\user\Desktop\新增資料夾 (2)\6.2\即時好難\Children Down Stairs Server\Children Down Stairs Server\obj\Debug\Children Down Stairs Server.pdb
+C:\Users\user\Desktop\新增資料夾 (2)\6.2\即時好難\Children Down Stairs Server\Children Down Stairs Server\bin\Debug\Children Down Stairs Server.exe
+C:\Users\user\Desktop\新增資料夾 (2)\6.2\即時好難\Children Down Stairs Server\Children Down Stairs Server\bin\Debug\Children Down Stairs Server.pdb
+C:\Users\user\Desktop\新增資料夾 (2)\6.2\即時好難\Children Down Stairs Server\Children Down Stairs Server\obj\Debug\Children Down Stairs Server.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\新增資料夾 (2)\6.2\嘗試大改\Children Down Stairs Server\Children Down Stairs Server\bin\Debug\Children Down Stairs Server.exe.config
+C:\Users\user\Desktop\新增資料夾 (2)\6.2\嘗試大改\Children Down Stairs Server\Children Down Stairs Server\obj\Debug\Children Down Stairs Server.exe
+C:\Users\user\Desktop\新增資料夾 (2)\6.2\嘗試大改\Children Down Stairs Server\Children Down Stairs Server\obj\Debug\Children Down Stairs Server.pdb
+C:\Users\user\Desktop\新增資料夾 (2)\6.2\來改成我的想法看看\Children Down Stairs Server\Children Down Stairs Server\bin\Debug\Children Down Stairs Server.exe.config
+C:\Users\user\Desktop\新增資料夾 (2)\6.2\來改成我的想法看看\Children Down Stairs Server\Children Down Stairs Server\obj\Debug\Children Down Stairs Server.exe
+C:\Users\user\Desktop\新增資料夾 (2)\6.2\來改成我的想法看看\Children Down Stairs Server\Children Down Stairs Server\obj\Debug\Children Down Stairs Server.pdb
+C:\Users\user\Desktop\新增資料夾 (2)\6.2\來改成我的想法看看\Children Down Stairs Server\Children Down Stairs Server\bin\Debug\Children Down Stairs Server.exe
+C:\Users\user\Desktop\新增資料夾 (2)\6.2\來改成我的想法看看\Children Down Stairs Server\Children Down Stairs Server\bin\Debug\Children Down Stairs Server.pdb
+C:\Users\user\Desktop\新增資料夾 (2)\6.2\來改成我的想法看看\Children Down Stairs Server\Children Down Stairs Server\obj\Debug\Children Down Stairs Server.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\新增資料夾 (2)\6.3\Map測試\Children Down Stairs Server\Children Down Stairs Server\bin\Debug\Children Down Stairs Server.exe.config
+C:\Users\user\Desktop\新增資料夾 (2)\6.3\Map測試\Children Down Stairs Server\Children Down Stairs Server\obj\Debug\Children Down Stairs Server.exe
+C:\Users\user\Desktop\新增資料夾 (2)\6.3\Map測試\Children Down Stairs Server\Children Down Stairs Server\obj\Debug\Children Down Stairs Server.pdb
+C:\Users\user\Desktop\新增資料夾 (2)\6.3\Map測試\Children Down Stairs Server\Children Down Stairs Server\bin\Debug\Children Down Stairs Server.exe
+C:\Users\user\Desktop\新增資料夾 (2)\6.3\Map測試\Children Down Stairs Server\Children Down Stairs Server\bin\Debug\Children Down Stairs Server.pdb
+C:\Users\user\Desktop\新增資料夾 (2)\6.3\Map測試\Children Down Stairs Server\Children Down Stairs Server\obj\Debug\Children Down Stairs Server.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\新增資料夾 (2)\6.4\真正map合體\Children Down Stairs Server\Children Down Stairs Server\bin\Debug\Children Down Stairs Server.exe.config
+C:\Users\user\Desktop\新增資料夾 (2)\6.4\真正map合體\Children Down Stairs Server\Children Down Stairs Server\obj\Debug\Children Down Stairs Server.exe
+C:\Users\user\Desktop\新增資料夾 (2)\6.4\真正map合體\Children Down Stairs Server\Children Down Stairs Server\obj\Debug\Children Down Stairs Server.pdb
+C:\Users\user\Desktop\新增資料夾 (2)\6.4\真正map合體\Children Down Stairs Server\Children Down Stairs Server\bin\Debug\Children Down Stairs Server.exe
+C:\Users\user\Desktop\新增資料夾 (2)\6.4\真正map合體\Children Down Stairs Server\Children Down Stairs Server\bin\Debug\Children Down Stairs Server.pdb
+C:\Users\user\Desktop\新增資料夾 (2)\6.4\真正map合體\Children Down Stairs Server\Children Down Stairs Server\obj\Debug\Children Down Stairs Server.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\新增資料夾 (2)\6.5\封包一定要來完成\Children Down Stairs Server\Children Down Stairs Server\bin\Debug\Children Down Stairs Server.exe.config
+C:\Users\user\Desktop\新增資料夾 (2)\6.5\封包一定要來完成\Children Down Stairs Server\Children Down Stairs Server\obj\Debug\Children Down Stairs Server.exe
+C:\Users\user\Desktop\新增資料夾 (2)\6.5\封包一定要來完成\Children Down Stairs Server\Children Down Stairs Server\obj\Debug\Children Down Stairs Server.pdb
+C:\Users\user\Desktop\新增資料夾 (2)\6.5\封包一定要來完成\Children Down Stairs Server\Children Down Stairs Server\bin\Debug\Children Down Stairs Server.exe
+C:\Users\user\Desktop\新增資料夾 (2)\6.5\封包一定要來完成\Children Down Stairs Server\Children Down Stairs Server\bin\Debug\Children Down Stairs Server.pdb
+C:\Users\user\Desktop\新增資料夾 (2)\6.5\封包一定要來完成\Children Down Stairs Server\Children Down Stairs Server\obj\Debug\Children Down Stairs Server.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\新增資料夾 (2)\6.5\map就剩跳了  先來完成其他的!!!\Children Down Stairs Server\Children Down Stairs Server\bin\Debug\Children Down Stairs Server.exe.config
+C:\Users\user\Desktop\新增資料夾 (2)\6.5\map就剩跳了  先來完成其他的!!!\Children Down Stairs Server\Children Down Stairs Server\obj\Debug\Children Down Stairs Server.exe
+C:\Users\user\Desktop\新增資料夾 (2)\6.5\map就剩跳了  先來完成其他的!!!\Children Down Stairs Server\Children Down Stairs Server\obj\Debug\Children Down Stairs Server.pdb
+C:\Users\user\Desktop\新增資料夾 (2)\6.5\map就剩跳了  先來完成其他的!!!\Children Down Stairs Server\Children Down Stairs Server\bin\Debug\Children Down Stairs Server.exe
+C:\Users\user\Desktop\新增資料夾 (2)\6.5\map就剩跳了  先來完成其他的!!!\Children Down Stairs Server\Children Down Stairs Server\bin\Debug\Children Down Stairs Server.pdb
+C:\Users\user\Desktop\新增資料夾 (2)\6.5\map就剩跳了  先來完成其他的!!!\Children Down Stairs Server\Children Down Stairs Server\obj\Debug\Children Down Stairs Server.csprojResolveAssemblyReference.cache
+C:\Users\ntpu\Desktop\Children Down Stairs Server\Children Down Stairs Server\bin\Debug\Children Down Stairs Server.exe.config
+C:\Users\ntpu\Desktop\Children Down Stairs Server\Children Down Stairs Server\obj\Debug\Children Down Stairs Server.exe
+C:\Users\ntpu\Desktop\Children Down Stairs Server\Children Down Stairs Server\obj\Debug\Children Down Stairs Server.pdb
+C:\Users\ntpu\Desktop\Children Down Stairs Server\Children Down Stairs Server\bin\Debug\Children Down Stairs Server.exe
+C:\Users\ntpu\Desktop\Children Down Stairs Server\Children Down Stairs Server\bin\Debug\Children Down Stairs Server.pdb
+C:\Users\ntpu\Desktop\Children Down Stairs Server\Children Down Stairs Server\obj\Debug\Children Down Stairs Server.csprojResolveAssemblyReference.cache
